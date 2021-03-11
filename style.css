@@ -1,0 +1,143 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  color: #be0000;
+  font-size: 16.47vw;
+  margin: 0px;
+  padding-top: 15px;
+/*   border: solid 1px black; */
+  line-height: 0.70em;
+
+}
+
+
+html {
+  background-color: #f3eee6;
+}
+
+.blackBoxL {
+
+  display: flex;
+  justify-content:flex-start;
+  color: black;
+
+}
+
+.blackBoxR {
+
+  display: flex;
+  justify-content:flex-end;
+  color: black;
+
+}
+
+/*there are 18 black lines */
+
+
+#first {
+  width: 85%;
+  margin: 0px;
+}
+
+#second{
+  width: 85%;
+}
+
+#third{
+  width:100%;
+}
+
+#fourth{
+  width: 70%;
+}
+
+#fifth{
+  width:100%;
+}
+
+#sixth{
+  width: 85%;
+}
+
+#seventh{
+  width: 85%;
+}
+
+#eigth{
+  width: 100%;
+}
+
+#ninth{
+  width: 70%;
+}
+
+#tenth{
+  width: 100%;
+}
+
+#eleventh{
+  width: 100%;
+  margin-top:0px;
+}
+
+#twelvth{
+  width: 70%;
+}
+
+#thirteenth{
+  width: 100%;
+}
+
+#fourteenth{
+  width: 85%;
+}
+
+#fifteenth{
+  width: 85%;
+}
+
+#sixteenth{
+  width: 100%;
+}
+
+#seventeenth{
+  width: 70%;
+}
+
+#eighteenth{
+  width: 100%;
+}
+
+div{
+  margin-top: .2vw;
+}
+
+.box {
+  background-color: #000000;
+  height: 4vw;
+}
+
+#text{
+  display: flex;
+  justify-content: space-around;
+  font-size: 2vw;
+
+}
+
+
+
+#whole{
+  width:80%;
+  height:80%;
+  border-style: solid;
+  margin: auto;
+}
+
+.f {
+  margin-top:0px;
+}
